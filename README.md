@@ -9,4 +9,4 @@ udacity nano degree courseworks and projects
 		- project files
 
 sys notes:
-- This repository has an .gitignore sysfile
+- This repository has a .gitignore sysfile
