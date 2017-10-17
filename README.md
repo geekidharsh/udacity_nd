@@ -1,7 +1,7 @@
 udacity nano degree courseworks and projects
 
 
-###Structure of this repository: 
+### Structure of this repository: 
 
 - **_NanoDegree_Program_Name_**
 	- Term 
